@@ -2,8 +2,8 @@
 ## Data Persistence Engineering – Files and Databases
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
+- **Name:** C.Sai Jashwanth Reddy
+- **Register Number:** 192472142
 - **Department:** Computer Science and Engineering
 
 ### Development Environment
@@ -57,5 +57,5 @@ java -cp . TaskB4.CampusMigrationTool
 - Sample migration input file for Task B4 is located at `TaskB4/passes_input.csv`[cite: 24, 25].
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** C.Sai Jashwanth Reddy
+**Register Number:** 192472142
